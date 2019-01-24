@@ -16,3 +16,10 @@ https://github.com/tesseract-ocr/tesseract/wiki
 https://github.com/UB-Mannheim/tesseract/wiki
 
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.0.0.20181030.exe
+
+
+- captcha
+
+https://www.largitdata.com/course/37
+
+https://www.largitdata.com/course/38
